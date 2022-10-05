@@ -1,2 +1,2 @@
-*Emphasize
+*Emphasize*
 **Strong**
